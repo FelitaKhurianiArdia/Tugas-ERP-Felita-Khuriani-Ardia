@@ -1,0 +1,5 @@
+{
+  "name": "Dashboard ERP Penjualan Sederhana",
+  "description": "A simple sales ERP dashboard to analyze sales and stock data from a CSV file, featuring interactive charts and data tables.",
+  "requestFramePermissions": []
+}
